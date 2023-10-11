@@ -1,0 +1,42 @@
+[33mcommit ad448050d0080d8eb97a3536aa01081f702284e9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 18dd0a6 e75f981
+Author: zhaoyf <peterzane1996@outlook.com>
+Date:   Wed Oct 11 12:09:50 2023 +0800
+
+    Merge branch 'main' of github.com:peterzane/gitexercise
+
+[33mcommit 18dd0a65a95927906449fb2df7584e90fe0cc2c5[m[33m ([m[1;32mdev[m[33m)[m
+Author: zhaoyf <peterzane1996@outlook.com>
+Date:   Wed Oct 11 11:24:23 2023 +0800
+
+    add master1
+
+[33mcommit b8561334991b304a36d5b175580969b1bcd45d20[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: zhaoyf <peterzane1996@outlook.com>
+Date:   Wed Oct 11 11:27:28 2023 +0800
+
+    add dev2
+
+[33mcommit e75f98151a8d787b2c6d631d297abef1c2b018c5[m
+Author: zhaoyf <peterzane1996@outlook.com>
+Date:   Wed Oct 11 11:24:23 2023 +0800
+
+    add master1
+
+[33mcommit e378fed0c82bc162faa5b8b7b4532e3791648c06[m
+Author: zhaoyf <peterzane1996@outlook.com>
+Date:   Wed Oct 11 11:20:59 2023 +0800
+
+    add dev1
+
+[33mcommit 1f307356e3d27a61e48c251f316d1d1c48e5c7b6[m
+Author: zhaoyf <peterzane1996@outlook.com>
+Date:   Wed Oct 11 11:19:52 2023 +0800
+
+    add master1
+
+[33mcommit 5fa0b77d17712a5aecfa00fbb723614d8dad4a13[m
+Author: 赵越峰 <zyf596001626@hotmail.com>
+Date:   Wed Oct 11 10:48:33 2023 +0800
+
+    Initial commit
